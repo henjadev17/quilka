@@ -1,236 +1,246 @@
 # Quilka
 
-Quilka is a social writing app designed to help people write more consistently through gamification, creative challenges, and gentle AI assistance.
+**Quilka** es una aplicación social de escritura diseñada para ayudar a las personas a escribir con mayor constancia mediante gamificación, retos creativos y asistencia ligera con IA.
 
-The goal of Quilka is not just to generate text, but to help users build a real writing habit, explore their creativity, and improve the quality of their writing over time.
-
----
-
-## Overview
-
-Many people want to write, but struggle with consistency, motivation, or knowing what to write about.
-
-Quilka addresses this by combining:
-
-- **Gamification** to encourage daily writing
-- **AI-powered prompts and challenges** to unlock creativity
-- **Writing guidance** focused on technique and improvement
-- **Social and motivational elements** to keep users engaged
-
-Quilka is intended for students, aspiring writers, hobbyists, and anyone who wants to develop a stronger writing practice.
+El objetivo de Quilka no es reemplazar al escritor, sino acompañarlo en su proceso creativo, ayudándolo a desarrollar el hábito de escribir, explorar nuevas ideas y mejorar su técnica con el tiempo.
 
 ---
 
-## Main Features
+## Descripción general
 
-### 1. Writing Challenges
-AI-generated challenges based on:
-- available time
-- mood
-- theme
-- emotion
-- random words
-- alternative endings
-- memories
-- situations
-- images or other stimuli
+Muchas personas quieren escribir, pero les cuesta mantener la constancia, encontrar inspiración o saber por dónde empezar.
 
-### 2. Writing Habit and Gamification
-- daily streaks
-- progress tracking
-- rewards and achievements
-- writing goals
-- motivational reminders
+Quilka busca resolver ese problema combinando:
 
-### 3. Writing Assistance
-AI support focused on improving:
-- clarity
-- structure
-- style
-- grammar
-- tone
-- narrative technique
+- **Gamificación** para motivar la escritura diaria
+- **Retos y estímulos generados con IA** para desbloquear la creatividad
+- **Asistencia técnica de escritura** para ayudar a mejorar la calidad del texto
+- **Elementos sociales y motivacionales** para mantener el compromiso del usuario
 
-> Quilka is designed to assist the writer, not replace them.
-
-### 4. Text Categorization
-Automatic organization of writing by:
-- genre
-- tone
-- topic
-- intention
-- writing type
-
-### 5. Summaries and Feedback
-- text summaries
-- quick analysis
-- technical suggestions for improvement
-- personalized recommendations
-
-### 6. Social Layer
-Potential social features include:
-- sharing selected texts
-- community challenges
-- public or private profiles
-- engagement through likes, comments, or reactions
+Quilka está pensada para estudiantes, escritores principiantes, aficionados a la escritura y cualquier persona que quiera construir un hábito creativo de forma sostenible.
 
 ---
 
-## Vision
+## Funcionalidades principales
 
-Quilka aims to become a creative companion for writers:
-a platform where writing feels motivating, guided, playful, and meaningful.
+### 1. Retos de escritura
+Generación de retos creativos basados en distintos estímulos, como:
 
-The project combines creativity, education, and technology to make writing more accessible and sustainable as a habit.
+- tiempo disponible
+- emoción
+- tema
+- palabras aleatorias
+- finales alternativos
+- recuerdos
+- situaciones
+- preguntas
+- imágenes, sonidos u otros disparadores creativos
+
+### 2. Hábito y gamificación
+- rachas diarias de escritura
+- seguimiento de progreso
+- logros y recompensas
+- objetivos personales
+- recordatorios motivacionales
+
+### 3. Asistencia de escritura con IA
+Apoyo enfocado en mejorar aspectos como:
+
+- claridad
+- estructura
+- estilo
+- gramática
+- tono
+- técnica narrativa
+
+> Quilka está diseñada para asistir al escritor, no para escribir por él.
+
+### 4. Categorización de textos
+Organización automática de escritos según:
+
+- género
+- tono
+- tema
+- intención
+- tipo de texto
+
+### 5. Resúmenes y retroalimentación
+- resúmenes automáticos
+- análisis rápido del texto
+- sugerencias técnicas de mejora
+- recomendaciones personalizadas
+
+### 6. Capa social
+Posibles funciones sociales:
+
+- compartir textos seleccionados
+- participar en retos comunitarios
+- perfiles públicos o privados
+- interacciones mediante comentarios, reacciones o reconocimientos
 
 ---
 
-## Problem Statement
+## Visión
 
-A large number of people want to write more often, but face barriers such as:
-- lack of ideas
-- fear of the blank page
-- inconsistent motivation
-- limited feedback
-- lack of structure or routine
+Quilka busca convertirse en un compañero creativo para escritores: una plataforma donde escribir se sienta motivador, guiado, dinámico y significativo.
 
-Traditional writing tools focus on text editing, but not on maintaining motivation, habit formation, or creative exploration.
-
-Quilka proposes a different approach: a writing experience centered on consistency, engagement, and intelligent support.
+El proyecto combina creatividad, educación y tecnología para hacer de la escritura un hábito más accesible, constante y disfrutable.
 
 ---
 
-## Proposed Solution
+## Problema que aborda
 
-Quilka provides a digital platform where users can:
-1. receive personalized writing prompts,
-2. write within guided creative exercises,
-3. get AI-based technical suggestions,
-4. classify and review their texts,
-5. stay motivated through gamification and progress systems.
+Muchas personas desean escribir con frecuencia, pero enfrentan obstáculos como:
 
-This creates a more dynamic and supportive writing environment than a traditional text editor.
+- falta de ideas
+- miedo a la página en blanco
+- baja motivación
+- poca retroalimentación
+- ausencia de estructura o rutina
 
----
+Las herramientas tradicionales suelen enfocarse en la edición del texto, pero no en la motivación, la constancia ni en la exploración creativa.
 
-## Target Users
-
-- students
-- beginner writers
-- hobby writers
-- people building a daily writing habit
-- users interested in creative self-expression
-- communities interested in storytelling and writing practice
+Quilka propone una experiencia distinta: una plataforma centrada en el hábito, el compromiso y el acompañamiento inteligente.
 
 ---
 
-## Tech Stack
+## Solución propuesta
 
-This section can be adjusted depending on the final implementation.
+Quilka ofrece una plataforma digital en la que los usuarios pueden:
+
+1. recibir retos de escritura personalizados,
+2. escribir dentro de ejercicios guiados,
+3. obtener sugerencias técnicas basadas en IA,
+4. clasificar y revisar sus textos,
+5. mantenerse motivados mediante sistemas de progreso y gamificación.
+
+Esto crea una experiencia de escritura más dinámica y acompañada que la de un editor de texto tradicional.
+
+---
+
+## Usuarios objetivo
+
+- estudiantes
+- escritores principiantes
+- aficionados a la escritura
+- personas que quieren construir un hábito diario de escritura
+- usuarios interesados en la expresión creativa
+- comunidades enfocadas en narrativa y storytelling
+
+---
+
+## Stack tecnológico
+
+Esta sección puede ajustarse según la implementación final del proyecto.
 
 ### Frontend
-- React or Vue.js
+- React o Vue.js
 
 ### Backend
-- PHP with Symfony
+- PHP con Symfony
 
-### Infrastructure
+### Infraestructura
 - AWS
 
-### Possible Services
-- authentication
-- database
-- object storage
-- notifications
-- AI APIs
-- analytics
+### Servicios posibles
+- autenticación
+- base de datos
+- almacenamiento de archivos
+- notificaciones
+- APIs de inteligencia artificial
+- analítica de uso
 
 ---
 
-## Project Status
+## Estado del proyecto
 
-🚧 Early concept / MVP planning phase
+🚧 Proyecto en fase inicial / planificación de MVP
 
-Current focus:
-- product definition
-- feature prioritization
-- user flow design
-- MVP scope
-- technical architecture
-- AI-assisted writing challenge system
+Enfoque actual:
 
----
-
-## MVP Scope
-
-The initial MVP may include:
-
-- user registration and login
-- daily writing challenges
-- text editor
-- streak system
-- AI-generated prompts
-- basic categorization of texts
-- technical writing recommendations
-- simple progress dashboard
+- definición del producto
+- priorización de funcionalidades
+- diseño de flujos de usuario
+- alcance del MVP
+- arquitectura técnica
+- sistema de retos de escritura asistidos por IA
 
 ---
 
-## Long-Term Roadmap
+## Alcance inicial del MVP
 
-- richer gamification mechanics
-- more advanced AI feedback
-- social writing communities
-- collaborative challenges
-- multilingual support
-- adaptive writing paths based on user progress
-- mobile-first experience
+La primera versión podría incluir:
 
----
-
-## Core Product Principles
-
-- **Creativity first**
-- **AI as support, not replacement**
-- **Consistency over perfection**
-- **Motivation through progress**
-- **Simple and delightful user experience**
+- registro e inicio de sesión
+- retos diarios de escritura
+- editor de texto
+- sistema de rachas
+- generación de prompts con IA
+- categorización básica de textos
+- recomendaciones técnicas de escritura
+- panel simple de progreso
 
 ---
 
-## Brand Direction
+## Roadmap a largo plazo
 
-Quilka is imagined as:
-- creative
-- warm
-- intelligent
-- motivating
-- modern
-- accessible
-
-The brand aims to feel premium but friendly, inspiring users to return every day to write.
+- mecánicas de gamificación más completas
+- retroalimentación más avanzada con IA
+- comunidades de escritura
+- retos colaborativos
+- soporte multilenguaje
+- experiencias adaptativas según progreso del usuario
+- enfoque mobile-first
 
 ---
 
-## Repository Goals
+## Principios del producto
 
-This repository is used to:
-- define the product vision
-- organize the MVP
-- document architecture decisions
-- track development progress
-- build the first working version of Quilka
-
----
-
-## Contributing
-
-This project is currently in its initial planning and development phase.
-Contribution guidelines may be added in future iterations.
+- **La creatividad primero**
+- **La IA como apoyo, no como reemplazo**
+- **La constancia vale más que la perfección**
+- **La motivación nace del progreso**
+- **La experiencia debe ser simple y agradable**
 
 ---
 
-## License
+## Dirección de marca
 
-This project is currently private / under evaluation.
-A license will be defined in a future stage.
+Quilka se imagina como una marca:
+
+- creativa
+- cálida
+- inteligente
+- motivadora
+- moderna
+- accesible
+
+La intención es construir una experiencia premium pero cercana, que invite al usuario a volver cada día a escribir.
+
+---
+
+## Objetivos del repositorio
+
+Este repositorio servirá para:
+
+- documentar la visión del producto
+- organizar el MVP
+- registrar decisiones de arquitectura
+- dar seguimiento al desarrollo
+- construir la primera versión funcional de Quilka
+
+---
+
+## Contribuciones
+
+Actualmente el proyecto se encuentra en una etapa temprana de planificación y desarrollo.
+
+Las guías de contribución podrán añadirse en futuras iteraciones.
+
+---
+
+## Licencia
+
+Este proyecto se encuentra actualmente en evaluación / desarrollo privado.
+
+La licencia será definida en una etapa posterior.
